@@ -33,7 +33,7 @@ The video below will introduce you to R and talk about the importance of adoptin
 
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/why_r.png){width=75%}](https://docs.google.com/presentation/d/1CkatVluJFu_XoBo1iA0xfACc-V9v-_-DqV3KIPZHgMU/edit?usp=sharing)
+[![Link to Why R? slides](../images/why_r.png){width=75%}](../slides/why_r.pdf)
 
 </center>
 
@@ -65,7 +65,7 @@ If you are using a Chromebook, or have a tablet, or are having difficulties inst
 
 <center>
 
-[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](https://docs.google.com/presentation/d/19Y70sxKZH0Wp1Lm-0FMktiHjfAHBvHJHSfdxpPQuIgA/edit?usp=sharing)
+[![Link to R and RStudio Desktop slides](../images/getting_started.png){width=75%}](../slides/getting_started.pdf)
 
 </center>
 
@@ -128,7 +128,7 @@ You can use [this handy guide](https://choosealicense.com) if you need help choo
 
 <center>
 
-[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](https://docs.google.com/presentation/d/1ZNnQwgHx0EuWcmfC2ZovSZjoaPP3eUOvdOFF_98H1oI/edit?usp=sharing)
+[![Link to Good coding style slides](../images/good_coding_style.png){width=75%}](../slides/good_coding_style.pdf)
 
 </center>
 
